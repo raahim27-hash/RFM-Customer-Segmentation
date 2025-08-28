@@ -1,0 +1,6 @@
+Customer_Segment,Customers,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Monetary,Recommended_Action
+Champions,1268,19.896687697160882,9.913249211356467,5397.511679810726,6844044.8100000005,"Early access, VIP perks, premium upsell, referral incentives"
+Loyal Customers,843,52.15421115065243,3.2348754448398576,1249.621424673784,1053430.861,"Loyalty program tiers, exclusive bundles, personalized recommendations"
+Potential Loyalist,936,87.36538461538461,1.8653846153846154,699.0648846153846,654324.732,"Welcome series, first-purchase coupon, nurture with relevant content"
+Need Attention,988,171.36639676113361,1.2004048582995952,313.9191609311741,310152.131,"Win-back emails, limited-time discounts, ask for feedback"
+At Risk,303,267.8019801980198,1.0,163.21904290429043,49455.37,"Reactivation campaigns, steep discounts, survey to understand churn drivers"
