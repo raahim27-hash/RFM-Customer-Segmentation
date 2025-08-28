@@ -43,7 +43,14 @@ The objective was to understand customer behavior patterns and group them into a
   - Lost  
   - New Customers, etc.  
 
-### 4. Visual Analysis  
+### 4. Marketing Strategies  
+- Champions → Loyalty rewards, early access  
+- Loyal Customers → VIP offers, discounts  
+- Potential Loyalists → Special promotions, nurturing  
+- At Risk → Win-back campaigns, personalized deals  
+- Need Attention → Engagement campaigns, incentives  
+
+### 5. Visual Analysis  
 - Count plots for customer segments  
 - Boxplots of **Monetary by Segment**  
 - Heatmaps for **R vs F scores**  
@@ -91,4 +98,3 @@ This project is licensed under the MIT License.
 🤝 Special Thanks: Elevvo Pathways
 
 ---
-
